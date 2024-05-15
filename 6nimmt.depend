@@ -1,0 +1,286 @@
+# depslib dependency file v1.0
+1711076852 source:c:\users\win10\documents\6nimmt\fila.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"projeto.h"
+	"fila.h"
+
+1708434978 c:\users\win10\documents\6nimmt\projeto.h
+
+1708434944 c:\users\win10\documents\6nimmt\fila.h
+
+1711076852 source:c:\users\win10\documents\6nimmt\lista.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"projeto.h"
+	"lista.h"
+
+1708434946 c:\users\win10\documents\6nimmt\lista.h
+
+1711301314 source:c:\users\win10\documents\6nimmt\main.c
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<time.h>
+	<conio.h>
+	<mmsystem.h>
+	<unistd.h>
+	"functions.h"
+
+1711303353 c:\users\win10\documents\6nimmt\functions.h
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<time.h>
+	<conio.h>
+	"projeto.h"
+	"lista.h"
+	"pilha.h"
+	"fila.h"
+	<windows.h>
+	<mmsystem.h>
+	<unistd.h>
+
+1708434972 c:\users\win10\documents\6nimmt\pilha.h
+
+1711076852 source:c:\users\win10\documents\6nimmt\pilha.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"projeto.h"
+	"pilha.h"
+
+1711076852 source:c:\users\win10\desktop\matheus\6nimmt\fila.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"projeto.h"
+	"fila.h"
+
+1708434978 c:\users\win10\desktop\matheus\6nimmt\projeto.h
+
+1708434944 c:\users\win10\desktop\matheus\6nimmt\fila.h
+
+1711076852 source:c:\users\win10\desktop\matheus\6nimmt\lista.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"projeto.h"
+	"lista.h"
+
+1708434946 c:\users\win10\desktop\matheus\6nimmt\lista.h
+
+1711897653 source:c:\users\win10\desktop\matheus\6nimmt\main.c
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<time.h>
+	<conio.h>
+	<mmsystem.h>
+	<unistd.h>
+	"functions.h"
+
+1711898454 c:\users\win10\desktop\matheus\6nimmt\functions.h
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<time.h>
+	<conio.h>
+	"projeto.h"
+	"lista.h"
+	"pilha.h"
+	"fila.h"
+	<windows.h>
+	<mmsystem.h>
+	<unistd.h>
+
+1708434972 c:\users\win10\desktop\matheus\6nimmt\pilha.h
+
+1711076852 source:c:\users\win10\desktop\matheus\6nimmt\pilha.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"projeto.h"
+	"pilha.h"
+
+1711905484 source:c:\users\anton\downloads\6nimmt (2)\fila.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"projeto.h"
+	"fila.h"
+
+1708434978 c:\users\anton\downloads\6nimmt (2)\projeto.h
+
+1708434944 c:\users\anton\downloads\6nimmt (2)\fila.h
+
+1711898454 source:c:\users\anton\downloads\6nimmt (2)\lista.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"projeto.h"
+	"lista.h"
+
+1708434946 c:\users\anton\downloads\6nimmt (2)\lista.h
+
+1711897653 source:c:\users\anton\downloads\6nimmt (2)\main.c
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<time.h>
+	<conio.h>
+	<mmsystem.h>
+	<unistd.h>
+	"functions.h"
+
+1711905747 c:\users\anton\downloads\6nimmt (2)\functions.h
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<time.h>
+	<conio.h>
+	"projeto.h"
+	"lista.h"
+	"pilha.h"
+	"fila.h"
+	<windows.h>
+	<mmsystem.h>
+	<unistd.h>
+
+1708434972 c:\users\anton\downloads\6nimmt (2)\pilha.h
+
+1711898454 source:c:\users\anton\downloads\6nimmt (2)\pilha.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"projeto.h"
+	"pilha.h"
+
+1711905484 source:c:\users\softex\downloads\6nimmt (2)\6nimmt\fila.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"projeto.h"
+	"fila.h"
+
+1708434978 c:\users\softex\downloads\6nimmt (2)\6nimmt\projeto.h
+
+1708434944 c:\users\softex\downloads\6nimmt (2)\6nimmt\fila.h
+
+1711898454 source:c:\users\softex\downloads\6nimmt (2)\6nimmt\lista.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"projeto.h"
+	"lista.h"
+
+1708434946 c:\users\softex\downloads\6nimmt (2)\6nimmt\lista.h
+
+1711897653 source:c:\users\softex\downloads\6nimmt (2)\6nimmt\main.c
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<time.h>
+	<conio.h>
+	<mmsystem.h>
+	<unistd.h>
+	"functions.h"
+
+1711905747 c:\users\softex\downloads\6nimmt (2)\6nimmt\functions.h
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<time.h>
+	<conio.h>
+	"projeto.h"
+	"lista.h"
+	"pilha.h"
+	"fila.h"
+	<windows.h>
+	<mmsystem.h>
+	<unistd.h>
+
+1708434972 c:\users\softex\downloads\6nimmt (2)\6nimmt\pilha.h
+
+1711898454 source:c:\users\softex\downloads\6nimmt (2)\6nimmt\pilha.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"projeto.h"
+	"pilha.h"
+
+1715784114 source:c:\users\mathe\onedrive\archives\projetos-faculdade\6nimmt\fila.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"projeto.h"
+	"fila.h"
+
+1715784114 c:\users\mathe\onedrive\archives\projetos-faculdade\6nimmt\projeto.h
+
+1715784114 c:\users\mathe\onedrive\archives\projetos-faculdade\6nimmt\fila.h
+
+1715784114 source:c:\users\mathe\onedrive\archives\projetos-faculdade\6nimmt\lista.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"projeto.h"
+	"lista.h"
+
+1715784114 c:\users\mathe\onedrive\archives\projetos-faculdade\6nimmt\lista.h
+
+1715784114 source:c:\users\mathe\onedrive\archives\projetos-faculdade\6nimmt\main.c
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<time.h>
+	<conio.h>
+	<mmsystem.h>
+	<unistd.h>
+	"functions.h"
+
+1715784114 c:\users\mathe\onedrive\archives\projetos-faculdade\6nimmt\functions.h
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<time.h>
+	<conio.h>
+	"projeto.h"
+	"lista.h"
+	"pilha.h"
+	"fila.h"
+	<windows.h>
+	<mmsystem.h>
+	<unistd.h>
+
+1715784114 c:\users\mathe\onedrive\archives\projetos-faculdade\6nimmt\pilha.h
+
+1715784114 source:c:\users\mathe\onedrive\archives\projetos-faculdade\6nimmt\pilha.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"projeto.h"
+	"pilha.h"
+

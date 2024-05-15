@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<FileVersion major="1" minor="0" />
+	<ActiveTarget name="Debug" />
+	<File name="lista.c" open="1" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="4893" topLine="155" />
+		</Cursor>
+	</File>
+	<File name="fila.c" open="1" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="4448" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="lista.h" open="1" top="0" tabpos="7" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="0" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="pilha.h" open="1" top="0" tabpos="10" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="0" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="projeto.h" open="1" top="0" tabpos="11" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="0" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="main.c" open="1" top="1" tabpos="8" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2781" topLine="12" />
+		</Cursor>
+	</File>
+	<File name="functions.h" open="1" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="272" topLine="0" />
+		</Cursor>
+		<Folding>
+			<Collapse line="17" />
+			<Collapse line="20" />
+			<Collapse line="28" />
+			<Collapse line="33" />
+			<Collapse line="38" />
+			<Collapse line="43" />
+			<Collapse line="48" />
+			<Collapse line="53" />
+			<Collapse line="70" />
+			<Collapse line="81" />
+			<Collapse line="103" />
+			<Collapse line="107" />
+			<Collapse line="133" />
+			<Collapse line="204" />
+			<Collapse line="277" />
+			<Collapse line="311" />
+			<Collapse line="332" />
+			<Collapse line="343" />
+			<Collapse line="354" />
+			<Collapse line="393" />
+			<Collapse line="445" />
+			<Collapse line="454" />
+			<Collapse line="486" />
+			<Collapse line="509" />
+			<Collapse line="571" />
+			<Collapse line="585" />
+			<Collapse line="604" />
+			<Collapse line="608" />
+			<Collapse line="695" />
+			<Collapse line="726" />
+			<Collapse line="753" />
+			<Collapse line="765" />
+			<Collapse line="791" />
+			<Collapse line="817" />
+			<Collapse line="827" />
+		</Folding>
+	</File>
+	<File name="pilha.c" open="1" top="0" tabpos="9" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1026" topLine="55" />
+		</Cursor>
+	</File>
+	<File name="fila.h" open="1" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="0" topLine="0" />
+		</Cursor>
+	</File>
+</CodeBlocks_layout_file>
